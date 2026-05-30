@@ -1,0 +1,17 @@
+SIMILARITY_THRESHOLD = 0.72
+
+EMBEDDING_DIM = 512
+
+EMBEDDING_DIR = "data/embeddings"
+
+SAMPLE_IMAGE = "data/samples/sample_1.jpeg"
+
+MODEL_NAME = "InsightFace Buffalo_L"
+
+VERSION = "1.0.0"
+
+LEFT_THRESHOLD = 0.45
+
+RIGHT_THRESHOLD = 0.55
+
+FACE_AREA_THRESHOLD = 40000
